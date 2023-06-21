@@ -1,0 +1,18 @@
+[
+  {
+    "ProductTypeId": 1,
+    "PType": "Oil"
+  },
+  {
+    "ProductTypeId": 2,
+    "PType": "Disc"
+  },
+  {
+    "ProductTypeId": 3,
+    "PType": "Tire"
+  },
+  {
+    "ProductTypeId": 4,
+    "PType": "Brake disc"
+  }
+]
